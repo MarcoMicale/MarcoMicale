@@ -1,4 +1,4 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="2em">
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
 <br />
 
@@ -26,7 +26,7 @@
 
 <br />
 
-## :zap: Github Stats</summary>
+## Github Stats</summary>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcomicale&show_icons=true" alt="marcomicale" />
 
