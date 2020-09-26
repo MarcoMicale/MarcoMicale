@@ -26,12 +26,6 @@
 
 <br />
 
-## Github Stats</summary>
-
-<img align="left" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" alt="marcomicale" />
-
-<br />
-
 <!--
 **MarcoMicale/MarcoMicale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
