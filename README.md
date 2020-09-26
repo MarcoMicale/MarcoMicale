@@ -28,7 +28,7 @@
 
 ## Github Stats</summary>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcomicale&show_icons=true" alt="marcomicale" />
+<img align="left" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" alt="marcomicale" />
 
 <br />
 
