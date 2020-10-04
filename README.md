@@ -3,7 +3,6 @@
 <p>
   Studente di Giurisprudenza presso l'Università di Palermo, Geek nel midollo, mi piace #linux, cucinare e guardare serie tv e film...
 </p>
-<br />
 
 ## Connect with me:
 
