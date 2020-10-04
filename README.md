@@ -1,5 +1,8 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I'm Marco
 
+<p>
+  Studente di Giurisprudenza presso l'Università di Palermo, Geek nel midollo, mi piace #linux, cucinare e guardare serie tv e film...
+</p>
 <br />
 
 ## Connect with me:
